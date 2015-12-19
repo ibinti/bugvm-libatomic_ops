@@ -1,5 +1,8 @@
 # The atomic_ops library (libatomic_ops)
 
+The atomic_ops project (Atomic memory update operations portable implementation)
+https://github.com/ivmai/libatomic_ops/wiki/Download
+
 This is version 7.5.0 of libatomic_ops.
 
 You might find a more recent version
